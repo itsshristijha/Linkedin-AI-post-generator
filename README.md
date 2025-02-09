@@ -2,8 +2,6 @@
 
 A powerful AI-powered LinkedIn post generator built with React, TypeScript, and OpenAI's GPT-3.5. Create, schedule, and manage engaging LinkedIn content effortlessly.
 
-![LinkedIn Post Generator](https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
-
 ## ✨ Features
 
 - 🤖 **AI-Powered Content Generation**: Leverage GPT-3.5 for creating engaging posts
